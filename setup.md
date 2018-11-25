@@ -39,7 +39,7 @@ Within the EC2 Dashboard page, click **Instance** to view your running instance,
 
 That’s all you have to do. You will now be able to preview your new WordPress web site at the IP Address of the server. The admin area can be accessed at **128.57.48.454/wp-admin/**
 
-**Please Note**: the IP Address above is not a real one -- yours will be unique. ;)
+**Please Note**: the IP Address above is not a real one -- yours will be unique. :wink:
 
 Use the credentials you provided earlier to access the WordPress admin console. You can now install plugins, themes and configure your site.
 
