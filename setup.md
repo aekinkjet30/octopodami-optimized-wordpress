@@ -47,7 +47,7 @@ Use the credentials you provided earlier to access the WordPress admin console. 
 
 To SSH into your EC2 instance:
 
-1. cd to the location of your .pem key using your favorite terminal
+1. ```cd``` to the location of your .pem key using your favorite terminal
 2. Run ```chmod 600 mykey.pem``` to lock down your SSH key
 3. Run ```ssh ec2-user@<your ip address>```
 4. Bam!!! Have fun. Don't break anything, but if you do. Support is available [here](https://www.theuniversgroup.com).
