@@ -19,7 +19,7 @@ Octopodami Optimized WordPress (OOW) uses the following technologies:
 
 ## Installation and Usage
 
-For setup instructions, click here.
+For setup instructions, click [here](setup.md).
 
 ## Links
 
