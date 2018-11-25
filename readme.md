@@ -23,7 +23,7 @@ For setup instructions, click [here](setup.md).
 
 ## Links
 
-1. Product Website
+1. [Product Website](https://theuniversgroup.com/oow/)
 2. [EULA](https://s3.amazonaws.com/tug-public-documents/octopodamiEULA.txt)
 3. Knowledgebase
 4. Issue Tracking
