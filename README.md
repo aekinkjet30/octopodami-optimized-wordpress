@@ -1,6 +1,6 @@
 # Octopodami&reg; Optimized WordPress (OOW)
 
-With Octopodami&reg; Optimized WordPress (OOW), you can launch a WordPress stack preconfigured for auto-scaling, maintainability, performance, scalability, and security.
+With Octopodami&reg; Optimized WordPress (OOW), you can launch a WordPress stack preconfigured for auto-scaling, maintainability, performance, and security.
 
 Our expert engineers developed this 1-Click Amazon Machine Images (AMI) with rapid deployment in mind; we guarantee you will be up and running in 60 seconds on Amazon Web Services.
 
