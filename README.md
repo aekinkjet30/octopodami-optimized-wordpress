@@ -1,4 +1,4 @@
-# Octopodami Optimized WordPress (OOW)
+# Octopodami&reg; Optimized WordPress (OOW)
 
 With Octopodami&reg; Optimized WordPress (OOW), you can launch a WordPress stack preconfigured for auto-scaling, maintainability, performance, scalability, and security.
 
