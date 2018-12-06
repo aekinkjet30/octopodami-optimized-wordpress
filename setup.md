@@ -35,7 +35,7 @@ Within the EC2 Dashboard page, click **Instance** to view your running instance,
 
 ![Octopodami Instance ID|512x397, 20%](./images/octopodami_initial_screen.jpg?raw=true "Octopodami Instance ID")
 
-5. Copy the **Instance ID** from your EC2 dashboard, paste it in the input field and click on the **Next Step** button to proceed
+5. Copy the **Instance ID** from your EC2 dashboard, paste it in the input field and click the **Next Step** button to proceed
 6. Select your preferred language on the WordPress installation page
 7. Configure site information (**site** **title**, **username**, **password**, **your e-mail**, and **search engine visibility**)
 8. Click **Install WordPress** button to continue
