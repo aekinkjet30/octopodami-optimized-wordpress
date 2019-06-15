@@ -24,15 +24,27 @@ For setup instructions, click [here](setup.md).
 
 ## Links
 
-1. [Product Website](https://theuniversgroup.com/oow/)
+1. [Product Website](https://www.vmnative.com/)
 2. [EULA](https://s3.amazonaws.com/tug-public-documents/octopodamiEULA.txt)
 3. Knowledgebase
 4. Issue Tracking
 
 ## Support
 
-Email support is available to Amazon Web Services Marketplace Customers at [support@theuniversgroup.com](mailto:support@theuniversgroup.com). We do not offer refunds, but you may terminate your Octopodami Optimized WordPress (OOW) Stack at any time.
+Email support is available to Amazon Web Services Marketplace Customers at [cloud@vmnative.com](mailto:cloud@vmnative.com). We do not offer refunds, but you may terminate your Octopodami® Optimized WordPress (OOW) Stack at any time.
+
+## Contributing
+
+At VMnative we value and love our community! If you have any issues or would like to contribute, feel free to open an issue/PR and cc any of the maintainers.
 
 ## Troubleshooting
 
 For troubleshooting and frequently asked questions, please, refer to our Knowledgebase.
+
+## License
+
+The script is published under [BSD 3-Clause License](license.txt).
+
+## Copyright
+
+(c) 2018 [VM Native, Inc](https://www.vmnative.com).
