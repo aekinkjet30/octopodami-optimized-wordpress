@@ -60,7 +60,7 @@ To SSH into your EC2 instance:
 
 [![asciicast](https://asciinema.org/a/P5yUSD5AKcEPSoaerMDPA54Hn.svg)](https://asciinema.org/a/P5yUSD5AKcEPSoaerMDPA54Hn)
 
-4. Bam!!! Have fun. Don't break anything, but if you do. Support is available [here](https://www.theuniversgroup.com).
+4. Bam!!! Have fun. Don't break anything, but if you do. Support is available [here](https://www.vmnative.com).
 
 ## Links
 
